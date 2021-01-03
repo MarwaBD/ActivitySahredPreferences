@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="checkbox">com.mma.sharedpreferences.checkbox</string>
+    <string name="name">com.mma.sharedpreferences.name</string>
+    <string name="password">com.mma.sharedpreferences.password</string>
+    <string name="remember_my_informations">remember my informations</string>
+    <string name="login">login</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_name">enter name</string>
+
+</resources>
